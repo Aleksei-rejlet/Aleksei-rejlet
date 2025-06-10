@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/Coding%20Craft-%E2%9C%A8%20with%20Precision%20and%20Passion-ff79c6?style=flat-square" />
 </p>
 
+---
+
+<div align="center">
 
 ### 💫 About Me
 
@@ -34,7 +37,7 @@
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,python,java,react,reactnative,ocaml,html,css,c,mysql,mongodb,apache,figma,photoshop,illustrator,aftereffects,git,github,gitlab,bash,powershell,windows" alt="Tech Stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=js,python,java,react,reason,html,css,c,mysql,mongodb,apache,vs-code,figma,photoshop,illustrator,aftereffects,git,github,gitlab,bash,powershell,windows" alt="Tech Stack" width="100%" />
 
 ---
 
