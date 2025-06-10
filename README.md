@@ -1,7 +1,4 @@
 <!-- 🌈 Animated Colorful Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Aleksei+Evgrafov;Software+Engineering+Student;Passionate+about+Code+%26+Design!" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0080,7928ca&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontAlignY=35&desc=Scroll%20down%20to%20know%20more%20about%20me~&descSize=16&descAlignY=55" />
