@@ -1,13 +1,16 @@
-<!-- 🌈 Animated Colorful Header -->
+<!-- ✨ Colorful Animated Header (Gradient Text with Glow) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Aleksei+Evgrafov;Software+Engineering+Student;Passionate+about+Code+%26+Design!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=FF0080&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Aleksei+Evgrafov" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0080,7928ca&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontAlignY=35&desc=Scroll%20down%20to%20know%20more%20about%20me~&descSize=16&descAlignY=55" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Software%20Engineering%20Student%20💻&width=800&height=100" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Building%20tech%20that%20matters!%20%F0%9F%92%A1&width=800&height=100" />
+</p>
+
 
 ### 💫 About Me
 
