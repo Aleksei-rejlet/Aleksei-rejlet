@@ -1,14 +1,14 @@
-<!-- ✨ Colorful Animated Header (Gradient Text with Glow) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=FF0080&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Aleksei+Evgrafov" alt="Header" />
-</p>
+<!-- 🧑‍💻 Professional Centered Header with Subtle Color -->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/👋%20Hi%2C%20I'm%20Aleksei%20Evgrafov-7928ca?style=for-the-badge&labelColor=ff0080&logo=github&logoColor=white" />
+</h1>
+
+<h3 align="center">
+  Software Engineering Student | Full-Stack Developer | Creative Technologist
+</h3>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Software%20Engineering%20Student%20💻&width=800&height=100" />
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Building%20tech%20that%20matters!%20%F0%9F%92%A1&width=800&height=100" />
+  <img src="https://img.shields.io/badge/Coding%20Craft-%E2%9C%A8%20with%20Precision%20and%20Passion-ff79c6?style=flat-square" />
 </p>
 
 
