@@ -1,67 +1,95 @@
-<!-- 🧑‍💻 Professional Centered Header with Subtle Color -->
+<!-- Header -->
 <h1 align="center">
-  <img src="https://img.shields.io/badge/👋%20Hi%2C%20I'm%20Aleksei%20Evgrafov-7928ca?style=for-the-badge&labelColor=ff0080&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%8B%20Hi%2C%20I'm%20Aleksei%20Evgrafov-7928ca?style=for-the-badge&labelColor=ff0080&logo=github&logoColor=white" alt="Header" />
 </h1>
 
-<h3 align="center">
-  Software Engineering Student | Full-Stack Developer | Creative Technologist
+<h3 align="center" style="color:#7928ca; font-weight: 600;">
+  Software Engineering Student | Full-Stack Developer | Tech Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Craft-%E2%9C%A8%20with%20Precision%20and%20Passion-ff79c6?style=flat-square" />
+<p align="center" style="font-size: 1.1em; color: #555;">
+  Passionate about crafting clean, efficient, and scalable software solutions.
 </p>
 
 ---
 
-<div align="center">
-
-### 💫 About Me
-
-🎓 Computer Science (Software Engineering) student  
-💡 Passionate about building efficient, scalable, and meaningful software  
-🔧 Focused on full-stack development, systems programming, and smart technologies  
-🌱 Currently learning: **React Native**, **Machine Learning**, and modern UI frameworks  
-🤝 Open to collaboration on real-world impactful projects  
-📍 Based in Dubai, UAE  
-
----
-
-### 🌐 Connect with Me  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/72f654c9)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rejlet)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@theonlyrejlet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksei-evgrafov)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alekseievgrafov@outlook.com)
+# 💫 About Me:
+<p align="center">
+🎓 Computer Science (Software Engineering) student<br>
+💡 Passionate about building efficient, scalable, and meaningful software<br>
+🔧 Interested in full-stack development, systems programming, and smart technologies<br>
+🌱 Always learning something new — currently exploring React Native, machine learning, and more<br>
+🤝 Open to collaboration on projects that make a real-world impact<br>
+📍 Based in Dubai, UAE
+</p>
 
 ---
 
-### 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=js,python,java,react,reason,html,css,c,mysql,mongodb,apache,vs-code,figma,photoshop,illustrator,aftereffects,git,github,gitlab,bash,powershell,windows" alt="Tech Stack" width="100%" />
+## 🌐 Socials:
+<p align="center">
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://behance.net/72f654c9)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/rejlet)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/@theonlyrejlet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksei-evgrafov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alekseievgrafov@outlook.com)
+</p>
 
 ---
 
-### 📊 GitHub Stats
+# 💻 Tech Stack:
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="OCaml" src="https://img.shields.io/badge/OCaml-D7412B?style=for-the-badge&logo=ocaml&logoColor=white" />
+  
+  <!-- Frontend & Mobile -->
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <!-- Databases -->
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksei-rejlet&theme=omni&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=aleksei-rejlet&theme=omni&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-rejlet&theme=omni&layout=compact&hide_border=true)
+  <!-- Tools & Platforms -->
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-CA1F11?style=for-the-badge&logo=apache&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  
+  <!-- Design & Multimedia -->
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=aleksei-rejlet&theme=omni&hide_border=true&include_all_commits=false&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=aleksei-rejlet&theme=omni&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-rejlet&theme=omni&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 💰 Support Me
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@rejlet)
+<p align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 ---
 
-<i>Proudly made by Aleksei 💻 — Designed with ❤️</i>  
-<i>Inspired by open-source creativity ✨</i>
+## 💰 You can help me by Donating
+<p align="center">
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@rejlet) 
+</p>
 
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
