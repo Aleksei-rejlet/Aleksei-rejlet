@@ -11,7 +11,7 @@
 🎓 Computer Science (Software Engineering) student  
 💡 Passionate about building efficient, scalable, and meaningful software  
 🔧 Focused on full-stack development, systems programming, and smart technologies  
-🌱 Currently learning: **React Native**, **Machine Learning**, and modern UI frameworks  
+🌱 Currently learning: **React Native deeply**, **Machine Learning**, and modern UI frameworks  
 🤝 Open to collaboration on real-world impactful projects  
 📍 Based in Dubai, UAE  
 
