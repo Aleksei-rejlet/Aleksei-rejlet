@@ -1,7 +1,7 @@
 <!-- 🌈 Animated Colorful Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0080,7928ca&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontAlignY=35&color=000000&desc=Scroll%20down%20to%20know%20more%20about%20me~&descSize=16&descAlignY=55" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=ff0080,7928ca&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontAlignY=35&color=000000&desc=Scroll%20down%20to%20know%20more%20about%20me~&descSize=16&descAlignY=55](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20GitHub%20profile!&textBg=false&fontColor=ffffff&fontSize=40)" />
 </p>
 
 <div align="center">
