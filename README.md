@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 
-🎓 Computer Science (Software Engineering) graduate from Heriot-Watt University 
+🎓 Computer Science (Software Engineering) graduate from Heriot-Watt University  
 💡 Passionate about building efficient, scalable, and meaningful software  
 🔧 Focused on full-stack development, systems programming, and smart technologies  
 🤝 Open to collaboration on real-world impactful projects  
