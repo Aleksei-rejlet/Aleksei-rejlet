@@ -8,10 +8,9 @@
 
 ### 💫 About Me
 
-🎓 Computer Science (Software Engineering) student  
+🎓 Computer Science (Software Engineering) graduate from Heriot-Watt University 
 💡 Passionate about building efficient, scalable, and meaningful software  
 🔧 Focused on full-stack development, systems programming, and smart technologies  
-🌱 Currently learning: **React Native deeply**, **Machine Learning**, and modern UI frameworks  
 🤝 Open to collaboration on real-world impactful projects  
 📍 Based in Dubai, UAE  
 
@@ -28,7 +27,7 @@
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,python,java,react,ocaml,html,css,c,mysql,mongodb,figma,photoshop,illustrator,aftereffects,git,github,gitlab,bash,powershell,windows" alt="Tech Stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cs,react,ocaml,r,raspberrypi,html,htmx,css,dotnet,mysql,mongodb,latex,nodejs,arduino,figma,xd,docker,photoshop,illustrator,aftereffects,blender,git,github,vscode,visualstudio,eclipse,sublime,gitlab,bash,powershell,windows,apple,linux" alt="Tech Stack" width="100%" />
 
 ---
 
